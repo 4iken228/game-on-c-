@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="arcanado/arcanado.vcxproj" Id="7114aaba-33db-4fc3-831d-f0ee29411d35" />
-</Solution>
